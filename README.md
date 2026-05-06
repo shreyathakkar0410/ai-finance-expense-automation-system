@@ -73,32 +73,36 @@ Finance-Automation-Project/
 │   ├── workflow_diagram.png
 │   └── email_notification.png
 ```
-
----
-
 ## 📸 Screenshots
 
 ### 1. Google Form Interface
-
-![Google Form](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/form_view.png)
+![Google Form](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/google_form.png)
 
 ---
 
 ### 2. Google Sheet Data Capture
-
-![Google Sheet](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/sheet_data.png)
+![Google Sheet](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/google_sheet.png)
 
 ---
 
 ### 3. n8n Workflow Architecture
-
-![n8n Workflow](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/workflow_diagram.png)
+![Workflow](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/workflow_diagram.png)
 
 ---
 
-### 4. Email Notification Output
+### 4. Power BI Dashboard
+![Power BI](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/powerbi_dashboard.png)
 
-![Email Notification](https://raw.githubusercontent.com/deeksha29-bawa/ai-finance-expense-automation-system-/main/email_notification.png)
+---
+
+### 5. Email Notification Output
+![Email](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/email_output.png)
+---
+
+
+---
+
+
 
 ---
 
