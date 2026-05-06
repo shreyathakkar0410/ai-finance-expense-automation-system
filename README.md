@@ -81,6 +81,7 @@ Finance-Automation-Project/
 ---
 
 ### 2. Google Sheet Data Capture
+### 2. Google Sheet Data Capture
 ![Google Sheet](https://raw.githubusercontent.com/shreyathakkar0410/ai-finance-expense-automation-system/main/screenshots/google_sheet.png)
 
 ---
